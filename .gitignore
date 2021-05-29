@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Accidente.csv
+.vscode/settings.json
